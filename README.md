@@ -9,6 +9,6 @@ I also wrote some scripts to search for any account whose their owners haven't c
 - Go to Terminal and type: 
   ```casperjs autoregister.js [STUDENT_ID] [STUDENT_PASSWORD]```
 
-Wait until the tool finds some empty slot for you.
+Wait until the tool finds some empty slots for you.
 
 I set the tool to repeat 10000 times. You can edit file **autoregister.js** for custom options.
